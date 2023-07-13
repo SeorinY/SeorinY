@@ -1,6 +1,4 @@
-<h2 align="center"> Seorin Yoo </h2>
-<h3 align="center">🏫 Student at Seoul National University of Science and Technology</h3>
-
+<img src="https://github.com/SeorinY/SeorinY/assets/81281190/7d570b0c-15ea-46cd-9ad9-28c6357491c2" width="1000">
 
 
 <div align=center>
