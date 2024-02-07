@@ -1,13 +1,15 @@
 <div align=center>
 <img src="https://github.com/SeorinY/SeorinY/assets/81281190/cb959558-e21f-41cb-bc34-1670f14e84c7" width="700">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeorinY&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sprout3082)](https://solved.ac/profile/sprout3082)
+<br>  <br>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=SeorinY&show_icons=true&theme=github_dark" height="170"> <a href="https://solved.ac/sprout3082/"></a>&nbsp;
+ <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sprout3082" height="170"></a>
+ </br></br>
+</div>
 
 </div>
 
-
+ 
 
 
 <h3 align=center>🌱 SOCIAL MEDIA</h3>
