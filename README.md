@@ -40,7 +40,7 @@
 - **SOPT 31st iOS Part** <sub>2022.09 - 2023.01</sub>
 - **Tools 교내 컴퓨터공학과 학술 동아리** <sub>2019.03 ~ 현재</sub>
   
-### Award
+### 🫧 Award
 - **32기 APPJAM 우수상** SOPT <sub>2023.07 by SOPT</sub>
 - **31기 APPJAM 우수상** SOPT <sub>2023.01 by SOPT</sub>
 - **해커톤 SOPKATHON 최우수상** <sub>2023.01 by SOPT</sub>
