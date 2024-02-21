@@ -36,7 +36,6 @@
 - **SeoulTech 창업 동아리** <sub>2023.10 - 현재</sub>
 - **SOPT 32nd Server Part** <sub>2023.03 - 2023.07</sub>
 - **SeoulTech 창업 동아리** <sub>2023.03 - 2023.07</sub>
-- **SOPT 32nd Server Part** <sub>2023.03 - 2023.07</sub>
 - **SOPT 31st iOS Part** <sub>2022.09 - 2023.01</sub>
 - **Tools 교내 컴퓨터공학과 학술 동아리** <sub>2019.03 ~ 현재</sub>
   
