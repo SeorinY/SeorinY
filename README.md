@@ -45,6 +45,6 @@
 - **해커톤 SOPKATHON 최우수상** <sub>2023.01 by SOPT</sub>
 - **SeoulTech Ontact 프로그램 우수상** <sub>2021.09 by 서울과학기술대학교</sub>
 
-### Algoithm
+### Algorithm
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sprout3082" height="170"></a>
 
