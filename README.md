@@ -33,5 +33,5 @@
   - [Google Store](https://play.google.com/store/apps/details?id=com.start.STart&hl=ko&gl=US) / [AppStore](https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C/id1641852619)
 
 ### Algorithm
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sprout3082" height="170"></a>
+<a href="https://solved.ac/profile/sprout3082"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sprout3082" height="170"></a>
 
