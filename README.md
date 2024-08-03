@@ -1,14 +1,15 @@
 ### 유서린 (Seorin Yoo)
 - Backend Developer
-- Computer Engineering 19 / SeoulTech University
 - [Blog](https://seorin-yy.tistory.com)
+<!-- - Computer Engineering 19 / SeoulTech University -->
+
 
 
 ### 🛠 STACKS
 
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Springboot](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white)
+<!--  ![Springboot](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)  -->
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![AmazonAWS](https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -16,7 +17,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+<!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) -->
 
 ### 💻 Projects
 - **F-IT**: *프로젝트 시작을 위한 최적의 팀원 매칭 및 추천 서비스*
