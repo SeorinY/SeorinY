@@ -20,8 +20,3 @@ Backend Developer
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-social&logo=Swift&logoColor=white)
 <!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) -->
-
-
-### Algorithm
-<a href="https://solved.ac/profile/sprout3082"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sprout3082" height="170"></a>
-
