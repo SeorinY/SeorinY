@@ -1,4 +1,4 @@
-### 유서린 (Seorin Yoo)
+### Seorin Yu
 ![NAVER](https://img.shields.io/badge/NAVER-2DB400?style=for-the-social&logo=NAVER&logoColor=white)
 
 Backend Developer
